@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi')
             ],
             [
-                InlineKeyboardButton('help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
                 InlineKeyboardButton('Close ✗', callback_data="close_data"),
             ]
             ]
@@ -45,8 +45,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('Add me to your Chat', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('help', callback_data='help'),
-            InlineKeyboardButton('about', callback_data='about')
+            InlineKeyboardButton('Help', callback_data='help'),
+            InlineKeyboardButton('About', callback_data='about')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi'),
             InlineKeyboardButton('Movie Grouop', url='https://t.me/movies_request_group01')
@@ -91,8 +91,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('Add me to your Chat', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('help', callback_data='help'),
-            InlineKeyboardButton('about', callback_data='about')
+            InlineKeyboardButton('Help', callback_data='help'),
+            InlineKeyboardButton('About', callback_data='about')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi'),
             InlineKeyboardButton('Movie Group', url='https://t.me/movies_request_group01')
