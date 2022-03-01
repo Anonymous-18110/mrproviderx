@@ -13,8 +13,8 @@ Just Add me to Your Group As Admin and enjoy..😍😍</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
 ➥ Owner: <a href='https://t.me/Anonymous_0101010'>Anonymous</a>
-➥ Main Channel: <a href='https://t.me/AllTypesOfMovies_hindi'>All Types Of Movies</a>
-➥ Movie Group: <a href='https://t.me/movies_request_group01'>Movies Request Group</a>
+➥ Main Channel: <a href='https://t.me/AllTypesOfMovies_hindi'>Join Channel</a>
+➥ Movie Group: <a href='https://t.me/movies_request_group01'>Join Group</a>
 ➥ Bot Server: <a href='https://heroku.com'>Heroku</a>"""
 
     SOURCE_TXT = """<b>Source:</b>
@@ -24,7 +24,7 @@ Source: <a href='https://t.me/AllTypesOfMovies_hindi'>GitHub - Click here 👈</
 <b>OWNER:</b>
 - <a href='https://t.me/Anonymous_0101010'>Anonymous</a>
 
-<b>Movie GROUP</b>
+<b>MOVIE GROUP</b>
 - <a href='https://t.me/movies_request_group01'>Movies Request Group</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
