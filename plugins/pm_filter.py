@@ -436,8 +436,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('Add me to your Chat', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('help', callback_data='help'),
-            InlineKeyboardButton('about', callback_data='about')
+            InlineKeyboardButton('Help', callback_data='help'),
+            InlineKeyboardButton('About', callback_data='about')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi'),
             InlineKeyboardButton('movie Group', url='https://t.me/movies_request_group01')
@@ -491,7 +491,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('status', callback_data='stats'),
             InlineKeyboardButton('source', callback_data='source')
             ],[
-            InlineKeyboardButton('help & commands', callback_data='help')
+            InlineKeyboardButton('Help & Commands', callback_data='help')
             ],[
             InlineKeyboardButton('« Back', callback_data='start'),
             InlineKeyboardButton('Close ✗', callback_data='close_data')
