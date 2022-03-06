@@ -363,9 +363,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             [
                 InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi'),
                 InlineKeyboardButton('Movie Group', url='https://t.me/movies_request_group01')
-            ],
-            [
-                InlineKeyboardButton('Series & Movie Group', url=f'https://t.me/movies_request_group01')
             ]
             ]
             
